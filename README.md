@@ -37,6 +37,14 @@
 
 ---
 ##  Connect with me on
+<details>
+  <summary style="background-color: #4CAF50; color: white; padding: 10px; border-radius: 5px; cursor: pointer;">
+    Get in touch - WhatsApp/Call Directly
+  </summary>
+  <div style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+    7350900741
+  </div>
+</details>
 <p></p>
 <a target="_blank" href="https://www.linkedin.com/in/vivek-narole-5294a7148/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
